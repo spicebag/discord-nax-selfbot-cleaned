@@ -1,0 +1,11 @@
+{
+    "token": "Put Your Token Here",
+    "password": "Not Required, Put your Discord Password Here If You Wish.",
+    "prefix": ".",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "",
+    "tts_language": "en"
+}
